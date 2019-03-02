@@ -1,3 +1,3 @@
 # log
 
-simple logger including logged asserts
+simple logger including logged asserts and debugging
